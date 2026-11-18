@@ -1,0 +1,8 @@
+{
+  "name": "TiffinBox Stories",
+  "description": "Home-style South Indian tiffin meals delivered warm to your door, crafted with heirloom family recipes and kitchen stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
